@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "Panquecas Simples",
-      "imagem": "https://moinhoglobo.com.br/wp-content/uploads/2018/09/24-panqueca.jpg",
+      "imagem": "https://i.ibb.co/3SRnTgF/01-panquecas-simples.png",
       "serve": 4,
       "tempo": "20 minutos",
       "categoria": ["breakfast"],
@@ -26,7 +26,7 @@
     {
       "id": 2,
       "nome": "Omelete de Queijo",
-      "imagem": "https://static.itdg.com.br/images/1200-675/b2ecb762795e101a2ea5ade17066e6e8/320865-original.jpg",
+      "imagem": "https://i.ibb.co/cNCNrsR/02-omelete-queijo.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["breakfast"],
@@ -63,7 +63,7 @@
     {
       "id": 3,
       "nome": "Mingau de Aveia",
-      "imagem": "https://s2-receitas.glbimg.com/yApuD7KV8ZkbXCiq8cJEzMK4iwQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/7/Y/JxNkyoS3y7xfXSxme3tw/mingau-de-aveia-receita.jpg",
+      "imagem": "https://i.ibb.co/9TYBPRg/03-mingua-aveia.png",
       "serve": 1,
       "tempo": "10 minutos",
       "categoria": ["breakfast"],
@@ -99,7 +99,7 @@
     {
       "id": 4,
       "nome": "Torrada com Abacate",
-      "imagem": "https://laferretti.com.br/wp-content/uploads/2018/08/Torrada-985x515.webp",
+      "imagem": "https://i.ibb.co/b7jrVpd/04-torrada-de-abacate.png",
       "serve": 1,
       "tempo": "5 minutos",
       "categoria": ["breakfast"],
@@ -135,7 +135,7 @@
     {
       "id": 5,
       "nome": "Iogurte com Granola e Frutas",
-      "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/3587eaa4dd473b51fd0fb5b49423ec01.jpg",
+      "imagem": "https://i.ibb.co/XDx2DYQ/05-iogurte-com-granola-e-frutas.png",
       "serve": 1,
       "tempo": "5 minutos",
       "categoria": ["breakfast"],
@@ -166,7 +166,7 @@
     {
       "id": 6,
       "nome": "Crepioca Simples",
-      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD7jAWTK5_HcSsPPGgjAN4zaXLOMv0YizBAtc2Xy7o64xblwxrxPuJqEbZGSnOrXzMnUeSKaIMpO4oeY9SmMJ2YEQ6kNWGE02Wh7r4i9UaOGyVTdUb1kIc8CQqEgj0FMeEhB-O6bZmEdB_pYQJD23f6oix_8rU1VzI4st-E8wPLEiEinsiAwBIE5kNGrkA/w1200/Receita-crepioca-fit-facil.jpg",
+      "imagem": "https://i.ibb.co/0Fj1sP3/06-crepioca-simples.png",
       "serve": 1,
       "tempo": "10 minutos",
       "categoria": ["breakfast"],
@@ -197,7 +197,7 @@
     {
       "id": 7,
       "nome": "Smoothie de Banana e Morango",
-      "imagem": "https://vitat.com.br/receitas/images/recipeshandler.jpg?id=15888&tipo=r&default=s",
+      "imagem": "https://i.ibb.co/7SxP6TM/07-smoothie-de-banana-e-morango.png",
       "serve": 2,
       "tempo": "5 minutos",
       "categoria": ["breakfast", "drink"],
@@ -233,7 +233,7 @@
     {
       "id": 8,
       "nome": "Pão de Queijo Tradicional",
-      "imagem": "https://panutti.com.br/resize/imagecache//5b1bd3578b1462ff60d25e955d992594.jpg",
+      "imagem": "https://i.ibb.co/tQM6yKD/08-pao-de-queijo.png",
       "serve": 8,
       "tempo": "40 minutos",
       "categoria": ["breakfast"],
@@ -275,7 +275,7 @@
     {
       "id": 9,
       "nome": "Sanduíche Natural",
-      "imagem": "https://assets.unileversolutions.com/recipes-v3/99461-default.jpg",
+      "imagem": "https://i.ibb.co/PjZ8Ls3/09-sanduiche-natural.png",
       "serve": 1,
       "tempo": "10 minutos",
       "categoria": ["breakfast", "snack"],
@@ -316,7 +316,7 @@
     {
       "id": 10,
       "nome": "Waffle Crocante",
-      "imagem": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-2741-c2a63a9b81004ca9e03f2c616e73f884.jpg",
+      "imagem": "https://i.ibb.co/ZWTN7N8/10-waffles-crocantes.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["breakfast"],
@@ -362,7 +362,7 @@
     {
       "id": 11,
       "nome": "Frango Grelhado com Arroz e Salada",
-      "imagem": "https://img.freepik.com/fotos-premium/concentre-se-no-conceito-de-comida-saudavel-arroz-de-frango-grelhado-e-salada-no-prato_519721-1797.jpg",
+      "imagem": "https://i.ibb.co/JQmnT5j/11-frango-grelhado-com-arroz-e-salada.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["lunch"],
@@ -410,7 +410,7 @@
     {
       "id": 12,
       "nome": "Macarrão à Bolonhesa",
-      "imagem": "https://areademulher.r7.com/wp-content/uploads/2022/04/macarrao-a-bolonhesa-receita-simples-e-facil-de-fazer.jpeg",
+      "imagem": "https://i.ibb.co/3FKJ2XY/12-macarrao-bolonhesa.png",
       "serve": 4,
       "tempo": "40 minutos",
       "categoria": ["lunch"],
@@ -458,7 +458,7 @@
     {
       "id": 13,
       "nome": "Filé de Peixe Assado com Batatas",
-      "imagem": "https://j6t2y8j5.rocketcdn.me/wp-content/uploads/2022/03/peixe-assado-com-batata-almoco-pascoa.jpg",
+      "imagem": "https://i.ibb.co/bdgLwyP/13-file-de-peixe-assado-com-batatas.png",
       "serve": 4,
       "tempo": "50 minutos",
       "categoria": ["lunch"],
@@ -500,7 +500,7 @@
     {
       "id": 14,
       "nome": "Estrogonofe de Frango",
-      "imagem": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/chicken-&-other-poultry-dishes/strogonoff-de-frango/main-header.jpg",
+      "imagem": "https://i.ibb.co/ftgBHnY/14-estrogonofe-de-frango.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["lunch"],
@@ -547,7 +547,7 @@
     {
       "id": 15,
       "nome": "Lasanha de Carne",
-      "imagem": "https://anamariareceitas.com.br/wp-content/uploads/2024/05/3536-768x430.jpg",
+      "imagem": "https://i.ibb.co/86h31yr/15-lasanha-carne.png",
       "serve": 6,
       "tempo": "1 hora",
       "categoria": ["lunch"],
@@ -589,7 +589,7 @@
     {
       "id": 16,
       "nome": "Risoto de Cogumelos",
-      "imagem": "https://www.boqnews.com/wp-content/uploads/2020/11/risoto.png",
+      "imagem": "https://i.ibb.co/rsnCBD4/16-risoto-de-cogumelo.png",
       "serve": 4,
       "tempo": "40 minutos",
       "categoria": ["lunch"],
@@ -632,7 +632,7 @@
     {
       "id": 17,
       "nome": "Bife à Parmegiana",
-      "imagem": "https://www.saboresajinomoto.com.br/uploads/images/recipes/bife-a-parmegiana.jpg",
+      "imagem": "https://i.ibb.co/4FvQzdX/17-bife-parmegiana.png",
       "serve": 4,
       "tempo": "45 minutos",
       "categoria": ["lunch"],
@@ -674,7 +674,7 @@
     {
       "id": 18,
       "nome": "Torta de Frango",
-      "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2020/11/Torta-de-frango-de-liquidificador.jpg",
+      "imagem": "https://i.ibb.co/y5Pg3G9/18-torta-de-frango.png",
       "serve": 6,
       "tempo": "1 hora",
       "categoria": ["lunch"],
@@ -726,7 +726,7 @@
     {
       "id": 19,
       "nome": "Omelete de Forno",
-      "imagem": "https://static.itdg.com.br/images/1200-630/0afdda86767835a2bd003b294c830766/299360-original.jpg",
+      "imagem": "https://i.ibb.co/TT47V8v/19-omelete-de-forno.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["lunch"],
@@ -773,7 +773,7 @@
     {
       "id": 20,
       "nome": "Picadinho de Carne com Legumes",
-      "imagem": "https://static.itdg.com.br/images/1200-630/8c5fd120e3e9f7100a80c0f78e45a859/205622-original.jpg",
+      "imagem": "https://i.ibb.co/1Yg0xh7/20-picadinho-de-carne.png",
       "serve": 4,
       "tempo": "45 minutos",
       "categoria": ["lunch"],
@@ -826,7 +826,7 @@
     {
       "id": 21,
       "nome": "Sopa de Legumes",
-      "imagem": "https://assets.unileversolutions.com/recipes-v2/36850.jpg",
+      "imagem": "https://i.ibb.co/CHjnhcW/21-sopa-de-legumes.png",
       "serve": 4,
       "tempo": "40 minutos",
       "categoria": ["dinner"],
@@ -873,7 +873,7 @@
     {
       "id": 22,
       "nome": "Omelete Simples",
-      "imagem": "https://i.ytimg.com/vi/gY4YpCyxV4Q/maxresdefault.jpg",
+      "imagem": "https://i.ibb.co/R9GkTjz/22-omelete-simples.png",
       "serve": 1,
       "tempo": "10 minutos",
       "categoria": ["dinner"],
@@ -910,7 +910,7 @@
     {
       "id": 23,
       "nome": "Salada Caesar com Frango",
-      "imagem": "https://www.minhareceita.com.br/app/uploads/2019/09/salada-caesar-com-frango-douradinho-2.jpg",
+      "imagem": "https://i.ibb.co/9rbB2T7/23-salada-caesar-com-frango.png",
       "serve": 2,
       "tempo": "20 minutos",
       "categoria": ["dinner"],
@@ -952,7 +952,7 @@
     {
       "id": 24,
       "nome": "Panqueca de Carne",
-      "imagem": "https://receitasdepesos.com.br/wp-content/uploads/2024/03/panqueca-de-carne-moida-ao-sugo-coberta-com-mussarela-derretida.jpg",
+      "imagem": "https://i.ibb.co/SKCt68t/24-panqueca-de-carne.png",
       "serve": 4,
       "tempo": "50 minutos",
       "categoria": ["dinner"],
@@ -999,7 +999,7 @@
     {
       "id": 25,
       "nome": "Quiche de Queijo",
-      "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/2735facec1d89ee0a8d2497f18c9f8af_L.jpg",
+      "imagem": "https://i.ibb.co/MP2pqZp/25-quiche-de-quei.png",
       "serve": 6,
       "tempo": "1 hora",
       "categoria": ["dinner"],
@@ -1041,7 +1041,7 @@
     {
       "id": 26,
       "nome": "Tacos de Carne",
-      "imagem": "https://www.comidaereceitas.com.br/wp-content/uploads/2008/11/Tacos-de-carne-moida-freepik-780x520.jpg",
+      "imagem": "https://i.ibb.co/4svgVY2/26-tacos-de-carne.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["dinner"],
@@ -1082,7 +1082,7 @@
     {
       "id": 27,
       "nome": "Pizza de Frigideira",
-      "imagem": "https://amopaocaseiro.com.br/wp-content/uploads/2022/11/yt-075_pizza-de-frigideira_receita-1.jpg",
+      "imagem": "https://i.ibb.co/4s795bR/27-pizza-de-frigideira.png",
       "serve": 2,
       "tempo": "20 minutos",
       "categoria": ["dinner"],
@@ -1119,7 +1119,7 @@
     {
       "id": 28,
       "nome": "Macarrão ao Alho e Óleo",
-      "imagem": "https://static.itdg.com.br/images/640-440/b738131b402ba33d58befa56415ba106/324571-original.jpg",
+      "imagem": "https://i.ibb.co/89Pm3s9/28-macarrao-ao-alho-e-oleo.png",
       "serve": 4,
       "tempo": "20 minutos",
       "categoria": ["dinner"],
@@ -1155,7 +1155,7 @@
     {
       "id": 29,
       "nome": "Frango ao Curry",
-      "imagem": "https://www.receiteria.com.br/wp-content/uploads/frango-ao-curry-simples-capa.png",
+      "imagem": "https://i.ibb.co/QKwXWdD/29-frango-ao-curry.png",
       "serve": 4,
       "tempo": "40 minutos",
       "categoria": ["dinner"],
@@ -1208,7 +1208,7 @@
     {
       "id": 30,
       "nome": "Lasanha de Berinjela",
-      "imagem": "https://s2-receitas.glbimg.com/ndKlhvTemFRQkzqj6NEyTRJKxCs=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/z/6/QVACy6TJ2XL6x8vrdMCA/lasanha-de-berinjela-simples.jpg",
+      "imagem": "https://i.ibb.co/jffnQnz/30-lasanha-de-berinjela.png",
       "serve": 4,
       "tempo": "1 hora",
       "categoria": ["dinner"],
@@ -1245,7 +1245,7 @@
     {
       "id": 31,
       "nome": "Bolo de Chocolate",
-      "imagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-chocolate-facil-e-barato-rspxk8nc.jpg",
+      "imagem": "https://i.ibb.co/3W6Xwtm/31-bolo-de-chocolate.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["dessert"],
@@ -1297,7 +1297,7 @@
     {
       "id": 32,
       "nome": "Pudim de Leite Condensado",
-      "imagem": "https://s2-receitas.glbimg.com/jK-kMTPr3Yzex9P93zqt4DSsFXo=/0x0:1366x768/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/z/0/RsipkzTEu0Y1PGiavCpA/pudim-de-leite-condensado.jpg",
+      "imagem": "hhttps://i.ibb.co/d5LnpQ6/32-pudim-de-leite-condensado.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["dessert"],
@@ -1334,7 +1334,7 @@
     {
       "id": 33,
       "nome": "Brigadeiro",
-      "imagem": "https://www.cozinhaaz.com/wp-content/uploads/2023/10/brigadeiro.jpg",
+      "imagem": "https://i.ibb.co/Lrh9bH7/33-brigadeiro.png",
       "serve": 10,
       "tempo": "30 minutos",
       "categoria": ["dessert"],
@@ -1370,7 +1370,7 @@
     {
       "id": 34,
       "nome": "Torta de Limão",
-      "imagem": "https://cooknenjoy.com/wp-content/uploads/2021/10/torta-de-limao-01-1800x1286.jpg",
+      "imagem": "https://i.ibb.co/Jj7bRjf/34-torta-de-limao-torta.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["dessert"],
@@ -1412,7 +1412,7 @@
     {
       "id": 35,
       "nome": "Mousse de Maracujá",
-      "imagem": "https://www.guiadasemana.com.br/contentFiles/image/opt_w1280h960/2023/11/FEA/71315_receita-mousse-maracuja.jpg",
+      "imagem": "https://i.ibb.co/277p7cR/35-mousse-de-maracuj.png",
       "serve": 6,
       "tempo": "20 minutos",
       "categoria": ["dessert"],
@@ -1449,7 +1449,7 @@
     {
       "id": 36,
       "nome": "Gelatina Colorida",
-      "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2014/01/gelatina-colorida-768x619.jpg",
+      "imagem": "https://i.ibb.co/ch46Wfb/36-gelatina-colorida.png",
       "serve": 8,
       "tempo": "4 horas",
       "categoria": ["dessert"],
@@ -1486,7 +1486,7 @@
     {
       "id": 37,
       "nome": "Cocada",
-      "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3244231:1655307078/Cocada.jpg?f=default&$p$f=429b595",
+      "imagem": "https://i.ibb.co/LJXWXN5/37-cocada.png",
       "serve": 12,
       "tempo": "30 minutos",
       "categoria": ["dessert"],
@@ -1523,7 +1523,7 @@
     {
       "id": 38,
       "nome": "Brownie",
-      "imagem": "https://moinhoglobo.com.br/wp-content/uploads/2016/02/51-Brownie-scaled.jpg",
+      "imagem": "https://i.ibb.co/9hPZd0P/38-brownie.png",
       "serve": 8,
       "tempo": "30 minutos",
       "categoria": ["dessert"],
@@ -1566,7 +1566,7 @@
     {
       "id": 39,
       "nome": "Pavê de Chocolate",
-      "imagem": "https://i.ytimg.com/vi/RPh7Y8Y6uCo/maxresdefault.jpg",
+      "imagem": "https://i.ibb.co/Z1qDCjm/39-pave-de-chocolate.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["dessert"],
@@ -1607,7 +1607,7 @@
     {
       "id": 40,
       "nome": "Torta de Maçã",
-      "imagem": "https://todeschinialimentos.com.br/images/receitas/134/todeschini-imagem-receitas-torta-de-maca-simples-com-creme-branco-share.jpg",
+      "imagem": "https://i.ibb.co/8PHzY0h/40-torta-de-maca.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["dessert"],
@@ -1645,7 +1645,7 @@
     {
       "id": 41,
       "nome": "Sanduíche de Frango",
-      "imagem": "https://assets.unileversolutions.com/recipes-v2/106678.jpg",
+      "imagem": "https://i.ibb.co/NKRVZmw/41-sanduiche-de-frang.png",
       "serve": 2,
       "tempo": "15 minutos",
       "categoria": ["snack"],
@@ -1686,7 +1686,7 @@
     {
       "id": 42,
       "nome": "Wrap de Atum",
-      "imagem": "https://conteudo.imguol.com.br/2015/01/11/wrap-de-atum-1420983254758_v2_4x3.jpg",
+      "imagem": "https://i.ibb.co/XjT0J3j/42-wrap-de-atum.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["snack"],
@@ -1727,7 +1727,7 @@
     {
       "id": 43,
       "nome": "Empadinha de Frango",
-      "imagem": "https://img-global.cpcdn.com/recipes/f517fae910f1313e/680x482cq70/foto-principal-da-receita-empada-de-frango-com-massa-facil-e-deliciosa-q-derrete-na-boca.jpg",
+      "imagem": "https://i.ibb.co/1vXtMFM/43-empadinhas-de-frang.png",
       "serve": 12,
       "tempo": "1 hora",
       "categoria": ["snack"],
@@ -1791,7 +1791,7 @@
     {
       "id": 44,
       "nome": "Hambúrguer Caseiro",
-      "imagem": "https://assets.unileversolutions.com/recipes-v2/99444.jpg",
+      "imagem": "https://i.ibb.co/b6BcwMT/44-hambarguer-caseiro.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["snack"],
@@ -1833,7 +1833,7 @@
     {
       "id": 45,
       "nome": "Batata Frita",
-      "imagem": "https://static.itdg.com.br/images/1200-630/150ba2d5d2874bed8561dd8edbdc1323/164773-original.jpg",
+      "imagem": "https://i.ibb.co/2PRYNdX/45-batatas-frita.png",
       "serve": 4,
       "tempo": "30 minutos",
       "categoria": ["snack"],
@@ -1865,7 +1865,7 @@
     {
       "id": 46,
       "nome": "Croquete de Carne",
-      "imagem": "https://www.saboresajinomoto.com.br/uploads/images/recipes/croquete-de-carne-2.jpg",
+      "imagem": "https://i.ibb.co/1ZS8yTH/46-croquete-de-carne.png",
       "serve": 8,
       "tempo": "1 hora",
       "categoria": ["snack"],
@@ -1907,7 +1907,7 @@
     {
       "id": 47,
       "nome": "Quesadilla",
-      "imagem": "https://www.andy-cooks.com/cdn/shop/articles/20240216062735-andy-20cooks-20-20chicken-20quesadilla-20.jpg?v=1708385617",
+      "imagem": "https://i.ibb.co/1zdQKBw/47-quesadilla-de-frango.png",
       "serve": 2,
       "tempo": "15 minutos",
       "categoria": ["snack"],
@@ -1944,7 +1944,7 @@
     {
       "id": 48,
       "nome": "Mini Pizzas",
-      "imagem": "https://s2-receitas.glbimg.com/pj9tW7d_rl2efGhpskqQud8gPeo=/0x0:1280x853/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/b/m/zD3KNCT2A2LFiOMw1Gqw/mini-pizza.jpeg",
+      "imagem": "https://i.ibb.co/gr5R1Xf/48-mini-pizzas.png",
       "serve": 4,
       "tempo": "20 minutos",
       "categoria": ["snack"],
@@ -1981,7 +1981,7 @@
     {
       "id": 49,
       "nome": "Tostadas de Abacate",
-      "imagem": "https://boomi.b-cdn.net/wp-content/uploads/2021/02/VT003.png",
+      "imagem": "https://i.ibb.co/JKdSy6H/49-tostadas-de-abacate.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["snack"],
@@ -2017,7 +2017,7 @@
     {
       "id": 50,
       "nome": "Hot Dog",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/01/31/istock-143175178-1iuy9pef5iz3q.jpg",
+      "imagem": "https://i.ibb.co/Kwq66zJ/50-hot-dog.png",
       "serve": 4,
       "tempo": "10 minutos",
       "categoria": ["snack"],
@@ -2054,7 +2054,7 @@
     {
       "id": 51,
       "nome": "Suco de Laranja",
-      "imagem": "https://s2-oglobo.glbimg.com/YyUC_KRFzV2nRNd8OVaN2O6iBuo=/0x0:5257x3505/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/o/M/S3B6yZQYOrjtTTBNEMLQ/copo-de-suco-de-laranja-e-uma-pessoa-espremendo-uma-laranja-nele.jpg",
+      "imagem": "https://i.ibb.co/cLjqm2N/51-suco-de-laranja.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["drink"],
@@ -2085,7 +2085,7 @@
     {
       "id": 52,
       "nome": "Smoothie de Banana",
-      "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/5489ccfbdfc5cc22fa7bf9bcc34f27d2.jpg",
+      "imagem": "https://i.ibb.co/KXy4bmJ/52-smoothie-de-banana.png",
       "serve": 2,
       "tempo": "5 minutos",
       "categoria": ["drink"],
@@ -2121,7 +2121,7 @@
     {
       "id": 53,
       "nome": "Água de Coco",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/01/11/27273641-agua-de-coco-1.jpg",
+      "imagem": "https://i.ibb.co/jHLBQ7n/53-agua-de-coco.png",
       "serve": 1,
       "tempo": "5 minutos",
       "categoria": ["drink"],
@@ -2138,7 +2138,7 @@
     {
       "id": 54,
       "nome": "Batida de Morango",
-      "imagem": "https://static.itdg.com.br/images/1200-675/27520cbfb3c4a67bb4811c1c96fc2bac/289295-original.jpg",
+      "imagem": "https://i.ibb.co/862vbw5/54-batida-de-morango.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["drink"],
@@ -2173,7 +2173,7 @@
     {
       "id": 55,
       "nome": "Chá Gelado",
-      "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/10/30/759785217-cha-gelado-simples.jpg",
+      "imagem": "https://i.ibb.co/8PPHHXb/55-cha-gelado.png",
       "serve": 4,
       "tempo": "15 minutos",
       "categoria": ["drink"],
@@ -2210,7 +2210,7 @@
     {
       "id": 56,
       "nome": "Milkshake de Chocolate",
-      "imagem": "https://recipesblob.oetker.com.br/assets/786b185037aa4d6aae33f838ee5e7ef9/1272x764/milk-shake-de-chocolate.jpg",
+      "imagem": "https://i.ibb.co/j6VdXWL/56-milkshake-de-chocolate.png",
       "serve": 2,
       "tempo": "5 minutos",
       "categoria": ["drink"],
@@ -2246,7 +2246,7 @@
     {
       "id": 57,
       "nome": "Limonada",
-      "imagem": "https://s2-receitas.glbimg.com/bMkzvSyvdBjsAe1rqhJDwaEXOfw=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/I/r/U7gF5eSaytqQGpzFwTBQ/limonada-suica-cremosa.jpg",
+      "imagem": "https://i.ibb.co/gPzBFnK/57-limonada.png",
       "serve": 4,
       "tempo": "10 minutos",
       "categoria": ["drink"],
@@ -2282,7 +2282,7 @@
     {
       "id": 58,
       "nome": "Caipirinha",
-      "imagem": "https://static.itdg.com.br/images/1200-675/82a28aad77a013831d5c0ca43544eedc/319875-original.jpg",
+      "imagem": "https://i.ibb.co/Swj89VM/58-caipirinha.png",
       "serve": 1,
       "tempo": "5 minutos",
       "categoria": ["drink"],
@@ -2319,7 +2319,7 @@
     {
       "id": 59,
       "nome": "Batida de Coco",
-      "imagem": "https://i.panelinha.com.br/i1/228-bk-9355-batidadecoco.webp",
+      "imagem": "https://i.ibb.co/nbdWpHg/59-batida-de-coco.png",
       "serve": 2,
       "tempo": "5 minutos",
       "categoria": ["drink"],
@@ -2355,7 +2355,7 @@
     {
       "id": 60,
       "nome": "Refrigerante de Limão",
-      "imagem": "https://receitasmondial.com.br/wp-content/uploads/2024/09/Refrigerante-de-Limao-Caseiro-mondial.jpg",
+      "imagem": "https://i.ibb.co/f0GSrX8/60-refrigerante-de-limao.png",
       "serve": 4,
       "tempo": "5 minutos",
       "categoria": ["drink"],
