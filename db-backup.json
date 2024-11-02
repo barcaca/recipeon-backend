@@ -26,7 +26,7 @@
     {
       "id": 2,
       "nome": "Omelete de Queijo",
-      "imagem": "https://i.ibb.co/cNCNrsR/02-omelete-queijo.png",
+      "imagem": "https://i.ibb.co/dP3mGpg/02-omelete-queijo.png",
       "serve": 2,
       "tempo": "10 minutos",
       "categoria": ["breakfast"],
@@ -166,7 +166,7 @@
     {
       "id": 6,
       "nome": "Crepioca Simples",
-      "imagem": "https://i.ibb.co/0Fj1sP3/06-crepioca-simples.png",
+      "imagem": "https://i.ibb.co/z41fYC1/06-crepioca-simples.png",
       "serve": 1,
       "tempo": "10 minutos",
       "categoria": ["breakfast"],
@@ -197,7 +197,7 @@
     {
       "id": 7,
       "nome": "Smoothie de Banana e Morango",
-      "imagem": "https://i.ibb.co/7SxP6TM/07-smoothie-de-banana-e-morango.png",
+      "imagem": "https://i.ibb.co/Fnxx3h3/07-smoothie-de-banana-e-morango.png",
       "serve": 2,
       "tempo": "5 minutos",
       "categoria": ["breakfast", "drink"],
@@ -233,7 +233,7 @@
     {
       "id": 8,
       "nome": "Pão de Queijo Tradicional",
-      "imagem": "https://i.ibb.co/tQM6yKD/08-pao-de-queijo.png",
+      "imagem": "https://i.ibb.co/KmwrdTX/08-pao-de-queijo.png",
       "serve": 8,
       "tempo": "40 minutos",
       "categoria": ["breakfast"],
