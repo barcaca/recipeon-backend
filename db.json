@@ -235,7 +235,7 @@
       "nome": "Pão de Queijo Tradicional",
       "imagem": "https://i.ibb.co/KmwrdTX/08-pao-de-queijo.png",
       "serve": 8,
-      "tempo": "40 minutos",
+      "tempo": 40,
       "categoria": ["breakfast"],
       "descricao": "Delicioso pão de queijo crocante por fora e macio por dentro.",
       "ingredientes": [
@@ -412,7 +412,7 @@
       "nome": "Macarrão à Bolonhesa",
       "imagem": "https://i.ibb.co/3FKJ2XY/12-macarrao-bolonhesa.png",
       "serve": 4,
-      "tempo": "40 minutos",
+      "tempo": 40,
       "categoria": ["lunch"],
       "descricao": "Macarrão com molho de carne moída ao estilo bolonhesa.",
       "ingredientes": [
@@ -460,7 +460,7 @@
       "nome": "Filé de Peixe Assado com Batatas",
       "imagem": "https://i.ibb.co/bdgLwyP/13-file-de-peixe-assado-com-batatas.png",
       "serve": 4,
-      "tempo": "50 minutos",
+      "tempo": 50,
       "categoria": ["lunch"],
       "descricao": "Filé de peixe temperado e assado com batatas douradas.",
       "ingredientes": [
@@ -591,7 +591,7 @@
       "nome": "Risoto de Cogumelos",
       "imagem": "https://i.ibb.co/rsnCBD4/16-risoto-de-cogumelo.png",
       "serve": 4,
-      "tempo": "40 minutos",
+      "tempo": 40,
       "categoria": ["lunch"],
       "descricao": "Risoto cremoso com uma mistura de cogumelos frescos.",
       "ingredientes": [
@@ -634,7 +634,7 @@
       "nome": "Bife à Parmegiana",
       "imagem": "https://i.ibb.co/4FvQzdX/17-bife-parmegiana.png",
       "serve": 4,
-      "tempo": "45 minutos",
+      "tempo": 45,
       "categoria": ["lunch"],
       "descricao": "Bifes empanados, cobertos com molho de tomate e queijo derretido.",
       "ingredientes": [
@@ -775,7 +775,7 @@
       "nome": "Picadinho de Carne com Legumes",
       "imagem": "https://i.ibb.co/1Yg0xh7/20-picadinho-de-carne.png",
       "serve": 4,
-      "tempo": "45 minutos",
+      "tempo": 45,
       "categoria": ["lunch"],
       "descricao": "Carne picada refogada com legumes variados, um prato nutritivo e saboroso.",
       "ingredientes": [
@@ -828,7 +828,7 @@
       "nome": "Sopa de Legumes",
       "imagem": "https://i.ibb.co/CHjnhcW/21-sopa-de-legumes.png",
       "serve": 4,
-      "tempo": "40 minutos",
+      "tempo": 40,
       "categoria": ["dinner"],
       "descricao": "Sopa leve e nutritiva com uma mistura de legumes frescos.",
       "ingredientes": [
@@ -954,7 +954,7 @@
       "nome": "Panqueca de Carne",
       "imagem": "https://i.ibb.co/SKCt68t/24-panqueca-de-carne.png",
       "serve": 4,
-      "tempo": "50 minutos",
+      "tempo": 50,
       "categoria": ["dinner"],
       "descricao": "Panquecas recheadas com carne moída e cobertas com molho de tomate.",
       "ingredientes": [
@@ -1157,7 +1157,7 @@
       "nome": "Frango ao Curry",
       "imagem": "https://i.ibb.co/QKwXWdD/29-frango-ao-curry.png",
       "serve": 4,
-      "tempo": "40 minutos",
+      "tempo": 40,
       "categoria": ["dinner"],
       "descricao": "Frango cozido em um molho cremoso de curry, servido com arroz.",
       "ingredientes": [
