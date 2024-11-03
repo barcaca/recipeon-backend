@@ -5,7 +5,7 @@
       "nome": "Panquecas Simples",
       "imagem": "https://i.ibb.co/3SRnTgF/01-panquecas-simples.png",
       "serve": 4,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["breakfast"],
       "descricao": "Panquecas fofas e rápidas para um breakfast delicioso.",
       "ingredientes": [
@@ -28,7 +28,7 @@
       "nome": "Omelete de Queijo",
       "imagem": "https://i.ibb.co/dP3mGpg/02-omelete-queijo.png",
       "serve": 2,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["breakfast"],
       "descricao": "Omelete de queijo rápido e fácil para começar o dia com energia.",
       "ingredientes": [
@@ -65,7 +65,7 @@
       "nome": "Mingau de Aveia",
       "imagem": "https://i.ibb.co/9TYBPRg/03-mingua-aveia.png",
       "serve": 1,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["breakfast"],
       "descricao": "Mingau de aveia nutritivo e rápido para começar o dia.",
       "ingredientes": [
@@ -101,7 +101,7 @@
       "nome": "Torrada com Abacate",
       "imagem": "https://i.ibb.co/b7jrVpd/04-torrada-de-abacate.png",
       "serve": 1,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["breakfast"],
       "descricao": "Uma torrada saudável com abacate amassado e temperado.",
       "ingredientes": [
@@ -137,7 +137,7 @@
       "nome": "Iogurte com Granola e Frutas",
       "imagem": "https://i.ibb.co/XDx2DYQ/05-iogurte-com-granola-e-frutas.png",
       "serve": 1,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["breakfast"],
       "descricao": "Uma tigela saudável de iogurte com granola crocante e frutas frescas.",
       "ingredientes": [
@@ -168,7 +168,7 @@
       "nome": "Crepioca Simples",
       "imagem": "https://i.ibb.co/z41fYC1/06-crepioca-simples.png",
       "serve": 1,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["breakfast"],
       "descricao": "Uma opção rápida e saudável de crepioca com poucos ingredientes.",
       "ingredientes": [
@@ -199,7 +199,7 @@
       "nome": "Smoothie de Banana e Morango",
       "imagem": "https://i.ibb.co/Fnxx3h3/07-smoothie-de-banana-e-morango.png",
       "serve": 2,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["breakfast", "drink"],
       "descricao": "Um smoothie refrescante e nutritivo feito com banana e morango.",
       "ingredientes": [
@@ -277,7 +277,7 @@
       "nome": "Sanduíche Natural",
       "imagem": "https://i.ibb.co/PjZ8Ls3/09-sanduiche-natural.png",
       "serve": 1,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["breakfast", "snack"],
       "descricao": "Um sanduíche leve e saudável com pão integral e peito de peru.",
       "ingredientes": [
@@ -318,7 +318,7 @@
       "nome": "Waffle Crocante",
       "imagem": "https://i.ibb.co/ZWTN7N8/10-waffles-crocantes.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["breakfast"],
       "descricao": "Waffles crocantes por fora e macios por dentro, ideais para um breakfast especial.",
       "ingredientes": [
@@ -364,7 +364,7 @@
       "nome": "Frango Grelhado com Arroz e Salada",
       "imagem": "https://i.ibb.co/JQmnT5j/11-frango-grelhado-com-arroz-e-salada.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["lunch"],
       "descricao": "Frango grelhado suculento acompanhado de arroz branco e salada fresca.",
       "ingredientes": [
@@ -502,7 +502,7 @@
       "nome": "Estrogonofe de Frango",
       "imagem": "https://i.ibb.co/ftgBHnY/14-estrogonofe-de-frango.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["lunch"],
       "descricao": "Estrogonofe cremoso de frango, perfeito para um almoço rápido e delicioso.",
       "ingredientes": [
@@ -549,7 +549,7 @@
       "nome": "Lasanha de Carne",
       "imagem": "https://i.ibb.co/86h31yr/15-lasanha-carne.png",
       "serve": 6,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["lunch"],
       "descricao": "Lasanha clássica de carne com molho de tomate e queijo.",
       "ingredientes": [
@@ -676,7 +676,7 @@
       "nome": "Torta de Frango",
       "imagem": "https://i.ibb.co/y5Pg3G9/18-torta-de-frango.png",
       "serve": 6,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["lunch"],
       "descricao": "Torta cremosa de frango com massa macia e recheio suculento.",
       "ingredientes": [
@@ -728,7 +728,7 @@
       "nome": "Omelete de Forno",
       "imagem": "https://i.ibb.co/TT47V8v/19-omelete-de-forno.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["lunch"],
       "descricao": "Omelete assado com vegetais, fácil de preparar e saudável.",
       "ingredientes": [
@@ -875,7 +875,7 @@
       "nome": "Omelete Simples",
       "imagem": "https://i.ibb.co/R9GkTjz/22-omelete-simples.png",
       "serve": 1,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["dinner"],
       "descricao": "Omelete básico feito com ovos, temperos e queijo, ideal para um jantar rápido.",
       "ingredientes": [
@@ -912,7 +912,7 @@
       "nome": "Salada Caesar com Frango",
       "imagem": "https://i.ibb.co/9rbB2T7/23-salada-caesar-com-frango.png",
       "serve": 2,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["dinner"],
       "descricao": "Salada Caesar clássica com frango grelhado e molho especial.",
       "ingredientes": [
@@ -1001,7 +1001,7 @@
       "nome": "Quiche de Queijo",
       "imagem": "https://i.ibb.co/MP2pqZp/25-quiche-de-quei.png",
       "serve": 6,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dinner"],
       "descricao": "Quiche leve e saboroso com recheio cremoso de queijo.",
       "ingredientes": [
@@ -1043,7 +1043,7 @@
       "nome": "Tacos de Carne",
       "imagem": "https://i.ibb.co/4svgVY2/26-tacos-de-carne.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["dinner"],
       "descricao": "Tacos crocantes recheados com carne moída, alface, queijo e molho.",
       "ingredientes": [
@@ -1084,7 +1084,7 @@
       "nome": "Pizza de Frigideira",
       "imagem": "https://i.ibb.co/4s795bR/27-pizza-de-frigideira.png",
       "serve": 2,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["dinner"],
       "descricao": "Pizza rápida e fácil feita na frigideira, ideal para um jantar rápido.",
       "ingredientes": [
@@ -1121,7 +1121,7 @@
       "nome": "Macarrão ao Alho e Óleo",
       "imagem": "https://i.ibb.co/89Pm3s9/28-macarrao-ao-alho-e-oleo.png",
       "serve": 4,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["dinner"],
       "descricao": "Macarrão simples e saboroso, preparado com alho dourado no azeite.",
       "ingredientes": [
@@ -1210,7 +1210,7 @@
       "nome": "Lasanha de Berinjela",
       "imagem": "https://i.ibb.co/jffnQnz/30-lasanha-de-berinjela.png",
       "serve": 4,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dinner"],
       "descricao": "Lasanha leve e saudável com camadas de berinjela e molho de tomate.",
       "ingredientes": [
@@ -1247,7 +1247,7 @@
       "nome": "Bolo de Chocolate",
       "imagem": "https://i.ibb.co/3W6Xwtm/31-bolo-de-chocolate.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dessert"],
       "descricao": "Bolo de chocolate fofinho com cobertura de ganache.",
       "ingredientes": [
@@ -1299,7 +1299,7 @@
       "nome": "Pudim de Leite Condensado",
       "imagem": "https://i.ibb.co/d5LnpQ6/32-pudim-de-leite-condensado.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dessert"],
       "descricao": "Pudim cremoso de leite condensado com calda de caramelo.",
       "ingredientes": [
@@ -1336,7 +1336,7 @@
       "nome": "Brigadeiro",
       "imagem": "https://i.ibb.co/Lrh9bH7/33-brigadeiro.png",
       "serve": 10,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["dessert"],
       "descricao": "Docinho de chocolate, feito com leite condensado e granulado.",
       "ingredientes": [
@@ -1372,7 +1372,7 @@
       "nome": "Torta de Limão",
       "imagem": "https://i.ibb.co/Jj7bRjf/34-torta-de-limao-torta.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dessert"],
       "descricao": "Torta refrescante de limão com base de biscoito.",
       "ingredientes": [
@@ -1414,7 +1414,7 @@
       "nome": "Mousse de Maracujá",
       "imagem": "https://i.ibb.co/277p7cR/35-mousse-de-maracuj.png",
       "serve": 6,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["dessert"],
       "descricao": "Mousse leve e refrescante, feita com polpa de maracujá.",
       "ingredientes": [
@@ -1451,7 +1451,7 @@
       "nome": "Gelatina Colorida",
       "imagem": "https://i.ibb.co/ch46Wfb/36-gelatina-colorida.png",
       "serve": 8,
-      "tempo": "4 horas",
+      "tempo": 240,
       "categoria": ["dessert"],
       "descricao": "Gelatina em camadas coloridas, divertida e deliciosa.",
       "ingredientes": [
@@ -1488,7 +1488,7 @@
       "nome": "Cocada",
       "imagem": "https://i.ibb.co/LJXWXN5/37-cocada.png",
       "serve": 12,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["dessert"],
       "descricao": "Docinho de coco, fácil de preparar e delicioso.",
       "ingredientes": [
@@ -1525,7 +1525,7 @@
       "nome": "Brownie",
       "imagem": "https://i.ibb.co/9hPZd0P/38-brownie.png",
       "serve": 8,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["dessert"],
       "descricao": "Brownie de chocolate úmido, perfeito para acompanhar um café.",
       "ingredientes": [
@@ -1568,7 +1568,7 @@
       "nome": "Pavê de Chocolate",
       "imagem": "https://i.ibb.co/Z1qDCjm/39-pave-de-chocolate.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dessert"],
       "descricao": "Pavê cremoso de chocolate, uma sobremesa clássica.",
       "ingredientes": [
@@ -1609,7 +1609,7 @@
       "nome": "Torta de Maçã",
       "imagem": "https://i.ibb.co/8PHzY0h/40-torta-de-maca.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["dessert"],
       "descricao": "Torta caseira de maçã com canela, perfeita para o lanche.",
       "ingredientes": [
@@ -1647,7 +1647,7 @@
       "nome": "Sanduíche de Frango",
       "imagem": "https://i.ibb.co/NKRVZmw/41-sanduiche-de-frang.png",
       "serve": 2,
-      "tempo": "15 minutos",
+      "tempo": 15,
       "categoria": ["snack"],
       "descricao": "Sanduíche delicioso de frango desfiado com maionese e alface.",
       "ingredientes": [
@@ -1688,7 +1688,7 @@
       "nome": "Wrap de Atum",
       "imagem": "https://i.ibb.co/XjT0J3j/42-wrap-de-atum.png",
       "serve": 2,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["snack"],
       "descricao": "Wrap leve de atum com vegetais frescos.",
       "ingredientes": [
@@ -1729,7 +1729,7 @@
       "nome": "Empadinha de Frango",
       "imagem": "https://i.ibb.co/1vXtMFM/43-empadinhas-de-frang.png",
       "serve": 12,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["snack"],
       "descricao": "Empadinhas recheadas com frango desfiado e temperos, perfeitas para um lanche.",
       "ingredientes": [
@@ -1793,7 +1793,7 @@
       "nome": "Hambúrguer Caseiro",
       "imagem": "https://i.ibb.co/b6BcwMT/44-hambarguer-caseiro.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["snack"],
       "descricao": "Hambúrguer suculento feito com carne moída e temperos.",
       "ingredientes": [
@@ -1835,7 +1835,7 @@
       "nome": "Batata Frita",
       "imagem": "https://i.ibb.co/2PRYNdX/45-batatas-frita.png",
       "serve": 4,
-      "tempo": "30 minutos",
+      "tempo": 30,
       "categoria": ["snack"],
       "descricao": "Batatas fritas crocantes, o acompanhamento perfeito para qualquer lanche.",
       "ingredientes": [
@@ -1867,7 +1867,7 @@
       "nome": "Croquete de Carne",
       "imagem": "https://i.ibb.co/1ZS8yTH/46-croquete-de-carne.png",
       "serve": 8,
-      "tempo": "1 hora",
+      "tempo": 60,
       "categoria": ["snack"],
       "descricao": "Deliciosos croquetes de carne, perfeitos para um lanche.",
       "ingredientes": [
@@ -1909,7 +1909,7 @@
       "nome": "Quesadilla",
       "imagem": "https://i.ibb.co/1zdQKBw/47-quesadilla-de-frango.png",
       "serve": 2,
-      "tempo": "15 minutos",
+      "tempo": 15,
       "categoria": ["snack"],
       "descricao": "Quesadilla recheada com queijo e frango desfiado.",
       "ingredientes": [
@@ -1946,7 +1946,7 @@
       "nome": "Mini Pizzas",
       "imagem": "https://i.ibb.co/gr5R1Xf/48-mini-pizzas.png",
       "serve": 4,
-      "tempo": "20 minutos",
+      "tempo": 20,
       "categoria": ["snack"],
       "descricao": "Mini pizzas rápidas e fáceis, perfeitas para um lanche.",
       "ingredientes": [
@@ -1983,7 +1983,7 @@
       "nome": "Tostadas de Abacate",
       "imagem": "https://i.ibb.co/JKdSy6H/49-tostadas-de-abacate.png",
       "serve": 2,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["snack"],
       "descricao": "Tostadas crocantes cobertas com abacate e temperos.",
       "ingredientes": [
@@ -2019,7 +2019,7 @@
       "nome": "Hot Dog",
       "imagem": "https://i.ibb.co/Kwq66zJ/50-hot-dog.png",
       "serve": 4,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["snack"],
       "descricao": "Clássico cachorro-quente com salsicha, molho e complementos.",
       "ingredientes": [
@@ -2056,7 +2056,7 @@
       "nome": "Suco de Laranja",
       "imagem": "https://i.ibb.co/cLjqm2N/51-suco-de-laranja.png",
       "serve": 2,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["drink"],
       "descricao": "Suco fresco e refrescante de laranja, perfeito para qualquer ocasião.",
       "ingredientes": [
@@ -2087,7 +2087,7 @@
       "nome": "Smoothie de Banana",
       "imagem": "https://i.ibb.co/KXy4bmJ/52-smoothie-de-banana.png",
       "serve": 2,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Smoothie cremoso de banana, ótimo para um lanche saudável.",
       "ingredientes": [
@@ -2123,7 +2123,7 @@
       "nome": "Água de Coco",
       "imagem": "https://i.ibb.co/jHLBQ7n/53-agua-de-coco.png",
       "serve": 1,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Refrescante água de coco natural, perfeita para hidratação.",
       "ingredientes": [
@@ -2140,7 +2140,7 @@
       "nome": "Batida de Morango",
       "imagem": "https://i.ibb.co/862vbw5/54-batida-de-morango.png",
       "serve": 2,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["drink"],
       "descricao": "Batida doce e cremosa de morango, ideal para dias quentes.",
       "ingredientes": [
@@ -2175,7 +2175,7 @@
       "nome": "Chá Gelado",
       "imagem": "https://i.ibb.co/8PPHHXb/55-cha-gelado.png",
       "serve": 4,
-      "tempo": "15 minutos",
+      "tempo": 15,
       "categoria": ["drink"],
       "descricao": "Refrescante chá gelado, ideal para dias quentes.",
       "ingredientes": [
@@ -2212,7 +2212,7 @@
       "nome": "Milkshake de Chocolate",
       "imagem": "https://i.ibb.co/j6VdXWL/56-milkshake-de-chocolate.png",
       "serve": 2,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Delicioso milkshake de chocolate, cremoso e refrescante.",
       "ingredientes": [
@@ -2248,7 +2248,7 @@
       "nome": "Limonada",
       "imagem": "https://i.ibb.co/gPzBFnK/57-limonada.png",
       "serve": 4,
-      "tempo": "10 minutos",
+      "tempo": 10,
       "categoria": ["drink"],
       "descricao": "Refrescante limonada, perfeita para dias quentes.",
       "ingredientes": [
@@ -2284,7 +2284,7 @@
       "nome": "Caipirinha",
       "imagem": "https://i.ibb.co/Swj89VM/58-caipirinha.png",
       "serve": 1,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Clássica caipirinha brasileira, feita com limão e cachaça.",
       "ingredientes": [
@@ -2321,7 +2321,7 @@
       "nome": "Batida de Coco",
       "imagem": "https://i.ibb.co/nbdWpHg/59-batida-de-coco.png",
       "serve": 2,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Batida cremosa de coco, ideal para o verão.",
       "ingredientes": [
@@ -2357,7 +2357,7 @@
       "nome": "Refrigerante de Limão",
       "imagem": "https://i.ibb.co/f0GSrX8/60-refrigerante-de-limao.png",
       "serve": 4,
-      "tempo": "5 minutos",
+      "tempo": 5,
       "categoria": ["drink"],
       "descricao": "Refrigerante caseiro de limão, refrescante e saboroso.",
       "ingredientes": [
